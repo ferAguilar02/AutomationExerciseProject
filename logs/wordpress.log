@@ -1,0 +1,215 @@
+2023-02-26 10:23:32.633 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:23:32.670 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:23:32.673 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:23:32.681 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:23:32.681 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:23:32.683 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:23:50.760 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:23:50.760 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:23:51.180 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:25:41.607 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:25:41.619 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:25:41.620 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:25:41.631 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:25:41.632 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:25:41.635 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:26:00.615 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:26:00.615 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:26:00.910 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:26:15.089 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with invalid credentials
+2023-02-26 10:26:15.089 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:26:15.512 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:26:17.242 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with invalid credentials
+2023-02-26 10:26:17.242 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:26:17.539 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:33:15.917 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:33:15.925 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:33:15.926 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:33:15.934 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:33:15.934 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:33:15.936 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:33:32.283 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:33:32.283 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:33:32.552 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:33:39.147 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging out
+2023-02-26 10:33:47.573 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:34:16.893 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:34:16.903 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:34:16.905 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:34:16.916 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:34:16.916 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:34:16.917 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:34:33.814 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:34:33.819 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:34:34.133 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:34:39.118 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging out
+2023-02-26 10:35:07.528 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:35:07.535 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:35:07.537 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:35:07.548 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:35:07.548 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:35:07.549 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:35:28.438 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:38:29.096 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:38:29.103 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:38:29.104 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:38:29.112 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:38:29.112 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:38:29.113 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:38:51.989 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Clicking link provided by empty cart
+2023-02-26 10:38:52.127 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:39:13.640 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:39:13.650 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:39:13.654 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:39:13.672 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:39:13.673 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:39:13.674 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:40:32.122 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:40:32.130 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:40:32.132 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:40:32.141 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:40:32.142 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:40:32.143 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:42:18.845 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:42:18.851 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:42:18.853 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:42:18.861 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:42:18.861 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:42:18.863 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:42:35.063 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:42:35.063 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:42:35.381 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:42:48.073 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Removing products from cart
+2023-02-26 10:42:49.259 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging out
+2023-02-26 10:42:54.791 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:43:12.106 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:43:12.113 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:43:12.114 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:43:12.122 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:43:12.122 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:43:12.124 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:43:26.643 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:43:26.643 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:43:26.970 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:43:46.659 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Checking out
+2023-02-26 10:43:48.593 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Removing products from cart
+2023-02-26 10:43:48.600 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging out
+2023-02-26 10:43:53.546 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:44:15.709 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:44:15.717 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:44:15.718 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:44:15.727 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:44:15.728 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:44:15.729 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:45:16.641 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:45:16.644 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:45:16.645 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:45:16.649 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:45:16.649 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:45:16.650 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:45:26.613 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:45:26.614 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:45:26.786 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:45:53.438 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Removing products from cart
+2023-02-26 10:46:54.177 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:46:54.180 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:46:54.181 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:46:54.184 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:46:54.185 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:46:54.185 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:47:04.267 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:47:04.267 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:47:04.412 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:47:17.076 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Checking out
+2023-02-26 10:47:17.910 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Removing products from cart
+2023-02-26 10:47:17.912 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging out
+2023-02-26 10:47:22.083 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:47:32.146 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:47:32.149 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:47:32.150 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:47:32.154 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:47:32.155 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:47:32.155 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:47:46.880 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Checking out
+2023-02-26 10:47:47.521 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Removing products from cart
+2023-02-26 10:47:47.525 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:48:02.965 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:48:02.968 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:48:02.969 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:48:02.974 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:48:02.974 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:48:02.975 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:48:13.341 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:48:13.342 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:48:13.525 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:48:30.174 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging out
+2023-02-26 10:48:34.115 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:48:42.408 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:48:42.411 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:48:42.412 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:48:42.419 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:48:42.419 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:48:42.420 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:49:09.129 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 10:49:38.341 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 10:49:38.344 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 10:49:38.345 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 10:49:38.350 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 10:49:38.350 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 10:49:38.351 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 10:49:48.055 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging in with valid credentials
+2023-02-26 10:49:48.056 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Email set
+2023-02-26 10:49:48.249 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Password set
+2023-02-26 10:50:03.451 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Removing products from cart
+2023-02-26 10:50:03.453 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Logging out
+2023-02-26 10:50:08.928 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 15:20:24.042 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 15:20:24.049 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 15:20:24.051 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 15:20:24.063 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 15:20:24.063 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 15:20:24.065 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 15:20:47.335 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Removing products from cart
+2023-02-26 15:20:58.070 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Removing products from cart
+2023-02-26 15:20:58.076 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 15:21:11.411 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 15:21:11.418 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 15:21:11.419 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 15:21:11.427 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 15:21:11.428 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 15:21:11.430 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 15:21:32.017 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 15:21:52.830 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 15:21:52.847 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 15:21:52.848 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 15:21:52.860 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 15:21:52.860 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 15:21:52.862 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 15:22:54.424 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 15:22:54.430 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 15:22:54.432 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 15:22:54.440 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 15:22:54.440 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 15:22:54.441 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 15:23:19.842 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 15:23:30.196 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 15:23:30.204 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 15:23:30.206 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 15:23:30.214 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 15:23:30.215 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 15:23:30.216 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 15:24:11.361 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 15:24:21.906 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 15:24:21.912 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 15:24:21.913 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 15:24:21.923 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 15:24:21.924 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 15:24:21.925 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 15:24:48.616 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 15:25:05.073 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 15:25:05.079 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> account
+2023-02-26 15:25:05.080 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 15:25:05.094 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 15:25:05.094 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 15:25:05.096 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 15:25:35.467 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
